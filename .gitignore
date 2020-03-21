@@ -1,0 +1,12 @@
+__pychache__/
+
+*.pyc
+
+db.sqlite3
+__pycache__/
+
+*.vscode
+
+*.pycharm
+
+*.idea 

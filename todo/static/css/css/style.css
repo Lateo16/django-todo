@@ -1,0 +1,32 @@
+.bg-dark {
+    background-color: lightgreen !important;
+    /* border-color: #E7E7E7; */
+}
+
+.navbar-title {
+    margin-left: 200px;
+    font-weight: 800;
+    font-family:   'Courier New', Courier, monospace;
+}
+
+
+.todos {
+    margin-top: 60px; 
+}
+
+.todo-section {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px 0 20px 190px;
+}
+
+/* #flex-container {
+    display: flex;   
+    flex-wrap: wrap;
+    align-content: stretch;
+} */
+
+.delete-button {
+    /* margin-left: 120px; */
+    float: right;
+}
